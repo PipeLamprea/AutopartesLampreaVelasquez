@@ -1,0 +1,119 @@
+/*reset*/
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* estilo css de index*/
+
+nav{
+    text-decoration: none;
+    text-align: center;
+    border: 100px;
+    margin: 100px;
+    border-radius: 100px;
+    display: block;
+    height: 80px;
+}
+
+nav li {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: #6750A4;
+    
+}
+
+li a{
+    color: white;
+
+}
+
+li{
+    font-weight: 40;
+    font-size: 110%;
+    color: #6750A4;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    font-weight: 80px;
+    background-color: #625B71;
+    border-radius: 50px;
+    display: block;
+    padding: 10px;
+    color:#FFFFFF ;
+}
+
+h2{
+    background-color: #7D5260;
+    border-radius: 50px;
+    height: 60px;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 200%;
+}
+
+h3{
+    text-align: center;
+    color: blue;
+    font-size: 150%;
+    margin: 20px;
+}
+
+p{
+    background-color: #EADDFF;
+    border: 0.5mm black solid;
+    color: #21005D;
+    font-size: 110%;
+
+}
+
+div h2 h3 img{
+    text-align: center;
+    
+}
+
+
+footer{
+    background-color: #7D5260;
+    text-align: center;
+    margin: 5%;
+    border: 0.3mm black solid;
+}
+
+
+/* estilo css de vlog*/
+
+div p{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+iframe{
+    border: 3mm black solid;
+
+}
+
+
+
+/* estilo css de contacto*/
+
+.ul-li{
+    text-align: center;
+    font-size: 140%;
+}
+
+
+
+ 
